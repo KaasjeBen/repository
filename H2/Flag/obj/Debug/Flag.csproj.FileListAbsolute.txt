@@ -12,3 +12,10 @@ C:\laragon\www\Blok B\NATIVE\H2\.vs\H2\Flag\obj\Debug\Flag.csproj.AssemblyRefere
 C:\laragon\www\Blok B\NATIVE\H2\.vs\H2\Flag\obj\Debug\Flag.csproj.CoreCompileInputs.cache
 C:\laragon\www\Blok B\NATIVE\H2\.vs\H2\Flag\obj\Debug\Flag.exe
 C:\laragon\www\Blok B\NATIVE\H2\.vs\H2\Flag\obj\Debug\Flag.pdb
+C:\Users\bjlin\Documents\repository\repository\H2\Flag\bin\Debug\Flag.exe.config
+C:\Users\bjlin\Documents\repository\repository\H2\Flag\bin\Debug\Flag.exe
+C:\Users\bjlin\Documents\repository\repository\H2\Flag\bin\Debug\Flag.pdb
+C:\Users\bjlin\Documents\repository\repository\H2\Flag\obj\Debug\Flag.csproj.AssemblyReference.cache
+C:\Users\bjlin\Documents\repository\repository\H2\Flag\obj\Debug\Flag.csproj.CoreCompileInputs.cache
+C:\Users\bjlin\Documents\repository\repository\H2\Flag\obj\Debug\Flag.exe
+C:\Users\bjlin\Documents\repository\repository\H2\Flag\obj\Debug\Flag.pdb

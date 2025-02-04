@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Flag
 {
@@ -10,24 +6,23 @@ namespace Flag
     {
         static void Main(string[] args)
         {
-            // Print de nederlandse vlag
-            Console.WriteLine("Nederlandse vlag:");
-            Console.ForegroundColor = ConsoleColor.Red;
-            Console.WriteLine("█████████████");
-            Console.ForegroundColor = ConsoleColor.White;
-            Console.WriteLine("█████████████");
-            Console.ForegroundColor = ConsoleColor.Blue;
-            Console.WriteLine("█████████████");
+            // Print de Italiaanse vlag
+            
 
-            Console.ForegroundColor = ConsoleColor.White;
-            Console.WriteLine("Rusische vlag:");
-            Console.ForegroundColor = ConsoleColor.White;
-            Console.WriteLine("█████████████");
-            Console.ForegroundColor = ConsoleColor.Blue;
-            Console.WriteLine("█████████████");
-            Console.ForegroundColor = ConsoleColor.Red;
-            Console.WriteLine("█████████████");
+            for (int i = 0; i < 12; i++) // Loop for 12 lines
+            {
+                Console.ForegroundColor = ConsoleColor.Blue;
+                Console.Write("██████████"); // Green part
 
+                Console.ForegroundColor = ConsoleColor.White;
+                Console.Write("██████████"); // White part
+
+                Console.ForegroundColor = ConsoleColor.Red;
+                Console.Write("██████████\n"); // Red part
+            }
+
+            // Reset color
+            Console.ResetColor();
 
             // Wacht op key press
             Console.ReadKey();
